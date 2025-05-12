@@ -1,4 +1,4 @@
-module github.com/the-lanky/go-utils/v2
+module github.com/the-lanky/go-utils
 
 go 1.24.3
 

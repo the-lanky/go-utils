@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/the-lanky/go-utils/v2/gologger"
+	"github.com/the-lanky/go-utils/gologger"
 
 	"github.com/google/uuid"
 	"github.com/rabbitmq/amqp091-go"
