@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/the-lanky/go-utils/v2/gologger"
+	"github.com/the-lanky/go-utils/gologger"
 
 	"github.com/sirupsen/logrus"
 	"gorm.io/driver/postgres"
