@@ -1,7 +1,7 @@
 package goerror
 
 import (
-	"github.com/the-lanky/go-utils/gologger"
+	"github.com/the-lanky/go-utils/v2/gologger"
 
 	"github.com/gofiber/fiber/v3"
 	"github.com/sirupsen/logrus"

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/the-lanky/go-utils/gologger"
+	"github.com/the-lanky/go-utils/v2/gologger"
 
 	"github.com/redis/go-redis/v9"
 	"github.com/sirupsen/logrus"
