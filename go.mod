@@ -1,6 +1,6 @@
-module github.com/the-lanky/go-utils
+module github.com/the-lanky/go-utils/v2
 
-go 1.24
+go 1.24.3
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.33.0

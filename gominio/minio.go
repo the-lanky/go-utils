@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/the-lanky/go-utils/gologger"
+	"github.com/the-lanky/go-utils/v2/gologger"
 
 	"github.com/google/uuid"
 	"github.com/minio/minio-go/v7"
