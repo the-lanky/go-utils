@@ -1,6 +1,6 @@
-module gitlab.com/iinvite.id/go-utils
+module github.com/the-lanky/go-utils
 
-go 1.23
+go 1.24
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.33.0

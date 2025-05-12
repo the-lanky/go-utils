@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"gitlab.com/iinvite.id/go-utils/gologger"
+	"github.com/the-lanky/go-utils/gologger"
 
 	"github.com/sirupsen/logrus"
 	"gorm.io/driver/postgres"

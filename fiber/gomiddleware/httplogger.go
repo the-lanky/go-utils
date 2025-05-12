@@ -3,7 +3,7 @@ package gomiddleware
 import (
 	"time"
 
-	"gitlab.com/iinvite.id/go-utils/gologger"
+	"github.com/the-lanky/go-utils/gologger"
 
 	"github.com/gofiber/fiber/v3"
 	"github.com/sirupsen/logrus"
